@@ -1,0 +1,66 @@
+[
+  {
+    "label": "በያይነቱ",
+    "name": "beyaynetu",
+    "price": "40 ብር",
+    "place": "Oasis (around 5kilo)",
+    "pic": "/assets/beyaynetu.jpg",
+    "no_of_stars": 3.5,
+    "fasting": true
+  },
+  {
+    "label": "ጨጨብሳ",
+    "name": "chechebsa",
+    "price": "40 ብር",
+    "place": "Oasis (around 5kilo)",
+    "pic": "/assets/chechebsa.jpg",
+    "no_of_stars": 4,
+    "fasting": false
+  },
+  {
+    "label": "በርገር",
+    "name": "burger",
+    "price": "43 ብር",
+    "place": "Burger house (around 5kilo)",
+    "pic": "/assets/burger.jpg",
+    "no_of_stars": 5,
+    "fasting": false
+  },
+  {
+    "label": "ክትፎ",
+    "name": "kitfo",
+    "price": "190 ብር",
+    "place": "Oasis (around 5kilo)",
+    "pic": "/assets/kitfo.jpg",
+    "no_of_stars": 5,
+    "fasting": false
+  },
+  
+  {
+    "label": "ፓስታ",
+    "name": "pasta",
+    "price": "30 ብር",
+    "place": "Oasis (around 5kilo)",
+    "pic": "/assets/pasta.jpg",
+    "no_of_stars": 4,
+    "fasting": true
+  },
+  {
+    "label": "ፍርፍር",
+    "name": "firfir",
+    "price": "44 ብር",
+    "place": "Oasis (around 5kilo)",
+    "pic": "/assets/firfir.jpg",
+    "no_of_stars": 4,
+    "fasting": false
+  },
+  {
+    "label": "አሳ",
+    "name": "asa gulash",
+    "price": "60 ብር",
+    "place": "Oasis (around 5kilo)",
+    "pic": "/assets/asa_gulash.jpg",
+    "no_of_stars": 4,
+    "fasting": true
+  }
+]

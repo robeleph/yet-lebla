@@ -1,0 +1,54 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+
+
+.primary_button{
+    padding: 10px;
+    background-color:#3884ff;
+    border:2px solid #4995ff; 
+    color: white;
+  }
+  
+  .secondary_button{
+    padding: 10px;
+    background-color:#b0b2b4;
+    border:2px solid #8e9292; 
+    color: white;
+  }
+  
+  .food_pic{
+    width: 230px;
+    height: 300px;
+  }
+  
+  .food_box{
+    width: 250px;
+    float: left;
+    background: #fafafa;  
+    border: 2px solid #f5f5f5;
+    padding:10px;
+    margin: 10px;
+  }
+  
+  .food_box header{
+    padding: 4px;
+    font-size: 22px;
+  }
+  
+  .food_box .food_details{
+    padding: 8px;
+  }
+  
+  .food_details .value{
+    float: right;
+    color: #333333;
+  }
+  
